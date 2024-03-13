@@ -1,6 +1,6 @@
 # Currículo (Trilha Dev - FMT)
-![portifólio](assets/trilhadev.png)
-Projeto: Currículo online 🤍
+![portifólio](assets/tela-inicial.png)
+Projeto: Mini portifolio |
 desenvolvido na Trilha Dev - FMT
 
 ## Tecnologias usadas no projeto
@@ -8,8 +8,8 @@ desenvolvido na Trilha Dev - FMT
 - CSS
 
 ## Layout
-![gif do projeto](assets/mini-portifolio.gif)
+![gif do projeto](assets/currículogif.gif)
 
 ## Link
-[https://thalesdiasdeoliveira.github.io/Trilhadev-FMT/](https://thalesdiasdeoliveira.github.io/Trilhadev-FMT/)
+[https://github.com/ThalesD-Oliveira/Mini-portifolio](https://github.com/ThalesD-Oliveira/Mini-portifolio)
 
