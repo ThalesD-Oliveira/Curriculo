@@ -11,5 +11,5 @@ desenvolvido na Trilha Dev - FMT
 ![gif do projeto](assets/currículogif.gif)
 
 ## Link
-[https://github.com/ThalesD-Oliveira/Mini-portifolio](https://github.com/ThalesD-Oliveira/Mini-portifolio)
+[https://thalesd-oliveira.github.io/Mini-portifolio/](https://thalesd-oliveira.github.io/Mini-portifolio/)
 
